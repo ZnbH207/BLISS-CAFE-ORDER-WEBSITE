@@ -68,7 +68,7 @@ Bliss Cafe is a responsive website developed using React.js that allows customer
 
 ### Login Page
 
-./screenshots/login.png
+![Login Page](./screenshots/login.png)
 
 ### Contact Page
 

@@ -23,14 +23,12 @@ function ContactPage() {
     <>
       <Navbar />
 
-      {/* CONTACT TITLE */}
       <div className="contact-title">
         <p>A LITTLE PAUSE. A LOT OF BLISS.</p>
         <h1>Contact Us</h1>
         <p>We would love to hear from you!</p>
       </div>
 
-      {/* CONTACT INFORMATION */}
       <div className="contact-container">
         <div className="contact-box">
           <h2>Get In Touch</h2>
@@ -57,7 +55,6 @@ function ContactPage() {
             <p>Fri - Sun: 10:00am - 12:00 am</p>
           </div>
 
-          {/* FEEDBACK FORM */}
           <div className="feedback">
             <h3>Send Us Your Feedback</h3>
             <p>Your opinion matters to us!</p>
